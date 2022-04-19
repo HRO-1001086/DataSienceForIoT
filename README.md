@@ -53,3 +53,4 @@ Once everything is ready, the project can be started using the following command
 ## Demo
 
 There is a demo video of the project in the following link:
+[Video](https://github.com/HRO-1001086/DataSienceForIoT/blob/master/screenshots/demo.mp4)
