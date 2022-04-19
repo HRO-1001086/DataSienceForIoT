@@ -33,7 +33,7 @@ The Raspberry Pi design was created using Fritzing. Fritzing is an open source t
 
 Make sure all cables are connected to the correct sensors according to the design in Fritzing below.
 
-<LINK TO SCREENSHOT>
+![fritzing design](screenshots/fritzing-design.jpeg)
 
 ## Deployment
 
@@ -52,5 +52,4 @@ Once everything is ready, the project can be started using the following command
 
 ## Demo
 
-Insert gif or link to demo
-
+There is a demo video of the project in the following link:
